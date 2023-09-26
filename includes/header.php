@@ -1,17 +1,12 @@
 <!--header desktop-->
 <div class="header">
-    <div class="container-fluid search-header">
-        <form>
-            <input type="text" placeholder="Search">
-            <span class="close-search">X</span>
-        </form>
-    </div>
+   
     <div class="container-fluid">
         <div class="header-desktop ">
             <div class=" header-menu-desktop d-flex justify-content-between">
                 <div>
                     <div class="logo">
-                        <a href="index.html"><img src="imager/home/Logo.png" alt=""></a>
+                        <a href="/"><img src="/imager/home/Logo.png" alt=""></a>
                     </div>
                 </div>
                 <div>
@@ -78,7 +73,7 @@
                     <div class="header-right">
                         <ul class="list-inline">
                             <li><a href="#" class="cart-index">
-                                    <img src="imager/home/bag-2.png" alt=""
+                                    <img src="/imager/home/bag-2.png" alt=""
                                         style="width: 16px;height: 22px;margin-top: -10px;">
                                     <div class="number-cart">
                                         2
@@ -89,7 +84,7 @@
                                         <ul class="woocommerce-mini-cart cart_list product_list_widget ">
                                             <li class="woocommerce-mini-cart-item mini_cart_item clearfix">
                                                 <a class="product-image" href="#">
-                                                    <img src="imager/home/cart-home1.jpg" alt="cart-1">
+                                                    <img src="/imager/home/cart-home1.jpg" alt="cart-1">
                                                 </a>
                                                 <a class="product-title" href="#">Skin recreation</a>
 
@@ -106,7 +101,7 @@
                                             </li>
                                             <li class="woocommerce-mini-cart-item mini_cart_item clearfix">
                                                 <a class="product-image" href="#">
-                                                    <img src="imager/home/cart-home2.jpg" alt="cart-2">
+                                                    <img src="/imager/home/cart-home2.jpg" alt="cart-2">
                                                 </a>
                                                 <a class="product-title" href="#">Face cream</a>
 
@@ -137,11 +132,11 @@
                                 </div>
                             </li>
                             <li><a href="javascript:void(0)" class="search-header1"><img
-                                        src="imager/home/search-header.png" alt=""
+                                        src="/imager/home/search-header.png" alt=""
                                         style="width: 20px;height: 20px;margin-top: -10px;"></a>
                             </li>
                             <li><a href="javascript:void(0)" class="introduce1"><img
-                                        src="imager/home/control-introduce.png" alt=""
+                                        src="/imager/home/control-introduce.png" alt=""
                                         style="width: 16px;height: 16px;margin-top: -10px;"></a>
                             </li>
                         </ul>
@@ -153,12 +148,12 @@
                         <h3>follow instagram</h3>
                         <p>@Ura.cosmetic_beauty</p>
                         <div class="img-controduce">
-                            <img src="imager/home/introduce.jpg" alt="">
-                            <img src="imager/home/introduce1.jpg" alt="">
-                            <img src="imager/home/introduce2.jpg" alt="">
-                            <img src="imager/home/introduce3.jpg" alt="">
-                            <img src="imager/home/introduce4.jpg" alt="">
-                            <img src="imager/home/introduce5.jpg" alt="">
+                            <img src="/imager/home/introduce.jpg" alt="">
+                            <img src="/imager/home/introduce1.jpg" alt="">
+                            <img src="/imager/home/introduce2.jpg" alt="">
+                            <img src="/imager/home/introduce3.jpg" alt="">
+                            <img src="/imager/home/introduce4.jpg" alt="">
+                            <img src="/imager/home/introduce5.jpg" alt="">
                         </div>
                         <h4>newsletter</h4>
                         <p>Subcribe to our newsletter</p>
@@ -193,13 +188,13 @@
                     <button><span class="lnr lnr-menu click-mobile"></span></button>
                 </div>
                 <div class="logo">
-                    <img src="imager/home/Logo.png" alt="">
+                    <img src="/imager/home/Logo.png" alt="">
                 </div>
                 <div>
                     <div class="row header-right">
                         <ul class="list-inline">
                             <li><a href="#" class="cart-index">
-                                    <img src="imager/home/bag-2.png" alt=""
+                                    <img src="/imager/home/bag-2.png" alt=""
                                         style="width: 16px;height: 22px;margin-top: -10px;">
                                     <div class="number-cart">
                                         2
@@ -210,7 +205,7 @@
                                         <ul class="woocommerce-mini-cart cart_list product_list_widget ">
                                             <li class="woocommerce-mini-cart-item mini_cart_item clearfix">
                                                 <a class="product-image" href="#">
-                                                    <img src="imager/home/cart-home1.jpg" alt="cart-1">
+                                                    <img src="/imager/home/cart-home1.jpg" alt="cart-1">
                                                 </a>
                                                 <a class="product-title" href="#">Skin recreation</a>
 
@@ -227,7 +222,7 @@
                                             </li>
                                             <li class="woocommerce-mini-cart-item mini_cart_item clearfix">
                                                 <a class="product-image" href="#">
-                                                    <img src="imager/home/cart-home2.jpg" alt="cart-2">
+                                                    <img src="/imager/home/cart-home2.jpg" alt="cart-2">
                                                 </a>
                                                 <a class="product-title" href="#">Face cream</a>
 
@@ -258,11 +253,11 @@
                                 </div>
                             </li>
                             <li><a href="javascript:void(0)" class="search-header1"><img
-                                        src="imager/home/search-header.png" alt=""
+                                        src="/imager/home/search-header.png" alt=""
                                         style="width: 20px;height: 20px;margin-top: -10px;"></a>
                             </li>
                             <li><a href="javascript:void(0)" class="introduce1"><img
-                                        src="imager/home/control-introduce.png" alt=""
+                                        src="/imager/home/control-introduce.png" alt=""
                                         style="width: 16px;height: 16px;margin-top: -10px;"></a>
                             </li>
                         </ul>
@@ -275,12 +270,12 @@
                 <h3>follow instagram</h3>
                 <p>@Ura.cosmetic_beauty</p>
                 <div class="img-controduce">
-                    <img src="imager/home/introduce.jpg" alt="">
-                    <img src="imager/home/introduce1.jpg" alt="">
-                    <img src="imager/home/introduce2.jpg" alt="">
-                    <img src="imager/home/introduce3.jpg" alt="">
-                    <img src="imager/home/introduce4.jpg" alt="">
-                    <img src="imager/home/introduce5.jpg" alt="">
+                    <img src="/imager/home/introduce.jpg" alt="">
+                    <img src="/imager/home/introduce1.jpg" alt="">
+                    <img src="/imager/home/introduce2.jpg" alt="">
+                    <img src="/imager/home/introduce3.jpg" alt="">
+                    <img src="/imager/home/introduce4.jpg" alt="">
+                    <img src="/imager/home/introduce5.jpg" alt="">
                 </div>
                 <h4>newsletter</h4>
                 <p>Subcribe to our newsletter</p>

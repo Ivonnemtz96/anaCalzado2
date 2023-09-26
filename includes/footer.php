@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6 col-12">
-                <img src="imager/home/Logo.png" alt="">
+                <img src="/imager/home/Logo.png" alt="">
                 <ul class="list-inline">
                     <li>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut</li>
                     <li><a href="#"><i class="fab fa-twitter"></i></a>

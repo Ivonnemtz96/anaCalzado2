@@ -4,7 +4,7 @@
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <div class="slide-homepage" style="background-image: url('imager/home/slide-homepage2.jpg')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/01.jpg?=2')">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6 col-md-8 col-sm-10 col-10 content-slide">
@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slide-homepage" style="background-image: url('imager/home/slide-homepage3.jpg')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/02.jpg?=1')">
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-10 col-10 content-slide">
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slide-homepage" style="background-image: url('imager/home/slide-homepage4.jpg')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/03.jpg')">
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-11 col-11 content-slide">
@@ -81,7 +81,7 @@
                     <div class="banner-section">
                         <div class="inner-banner-section">
                             <h2>Beauty</h2>
-                            <img src="imager/home/banner-h2-1.png" alt="">
+                            <img src="/imager/home/banner-h2-1.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                     <div class="banner-section">
                         <div class="inner-banner-section">
                             <h2>Spa</h2>
-                            <img src="imager/home/banner-h2-2.png" alt="">
+                            <img src="/imager/home/banner-h2-2.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                     <div class="banner-section">
                         <div class="inner-banner-section">
                             <h2>Make Up</h2>
-                            <img src="imager/home/banner-h2-3.png" alt="">
+                            <img src="/imager/home/banner-h2-3.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product.jpg" alt="product">
+                                                <img class="image-cover" src="/imager/product/product.jpg" alt="product">
                                             </a>
                                             <p class="onnew">New</p>
                                             <div class="icon-product">
@@ -166,7 +166,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product2.jpg"
+                                                <img class="image-cover" src="/imager/product/product2.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -206,7 +206,7 @@
                                 </div>
                                 <!--sale product-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 sale-product">
-                                    <a href="#"><img src="imager/home/sale-product.jpg" alt="">
+                                    <a href="#"><img src="/imager/home/sale-product.jpg" alt="">
                                     </a>
                                 </div>
                                 <!--end sale product-->
@@ -214,7 +214,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product5.jpg"
+                                                <img class="image-cover" src="/imager/product/product5.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -256,7 +256,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product6.jpg"
+                                                <img class="image-cover" src="/imager/product/product6.jpg"
                                                     alt="product">
                                             </a>
                                             <div class="icon-product">
@@ -290,7 +290,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product7.jpg"
+                                                <img class="image-cover" src="/imager/product/product7.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -326,7 +326,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product8.jpg"
+                                                <img class="image-cover" src="/imager/product/product8.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -366,7 +366,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product.jpg" alt="product">
+                                                <img class="image-cover" src="/imager/product/product.jpg" alt="product">
                                             </a>
                                             <p class="onnew">New</p>
                                             <div class="icon-product">
@@ -401,7 +401,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product2.jpg"
+                                                <img class="image-cover" src="/imager/product/product2.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -441,7 +441,7 @@
                                 </div>
                                 <!--sale product-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 sale-product">
-                                    <a href="#"><img src="imager/home/sale-product.jpg" alt="">
+                                    <a href="#"><img src="/imager/home/sale-product.jpg" alt="">
                                     </a>
                                 </div>
                                 <!--end sale product-->
@@ -449,7 +449,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product5.jpg"
+                                                <img class="image-cover" src="/imager/product/product5.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -491,7 +491,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product6.jpg"
+                                                <img class="image-cover" src="/imager/product/product6.jpg"
                                                     alt="product">
                                             </a>
                                             <div class="icon-product">
@@ -525,7 +525,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product7.jpg"
+                                                <img class="image-cover" src="/imager/product/product7.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -561,7 +561,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product8.jpg"
+                                                <img class="image-cover" src="/imager/product/product8.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -601,7 +601,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product.jpg" alt="product">
+                                                <img class="image-cover" src="/imager/product/product.jpg" alt="product">
                                             </a>
                                             <p class="onnew">New</p>
                                             <div class="icon-product">
@@ -636,7 +636,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product2.jpg"
+                                                <img class="image-cover" src="/imager/product/product2.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -676,7 +676,7 @@
                                 </div>
                                 <!--sale product-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 sale-product">
-                                    <a href="#"><img src="imager/home/sale-product.jpg" alt="">
+                                    <a href="#"><img src="/imager/home/sale-product.jpg" alt="">
                                     </a>
                                 </div>
                                 <!--end sale product-->
@@ -684,7 +684,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product5.jpg"
+                                                <img class="image-cover" src="/imager/product/product5.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onsale">Sale</p>
@@ -726,7 +726,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product6.jpg"
+                                                <img class="image-cover" src="/imager/product/product6.jpg"
                                                     alt="product">
                                             </a>
                                             <div class="icon-product">
@@ -760,7 +760,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product7.jpg"
+                                                <img class="image-cover" src="/imager/product/product7.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -796,7 +796,7 @@
                                     <div class="card">
                                         <div class="card-img-top">
                                             <a href="#" class="wp-post-image">
-                                                <img class="image-cover" src="imager/product/product8.jpg"
+                                                <img class="image-cover" src="/imager/product/product8.jpg"
                                                     alt="product">
                                             </a>
                                             <p class="onnew">New</p>
@@ -841,16 +841,16 @@
                                                 <div id="flex-slider" class="flexslider">
                                                     <ul class="slides">
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail.jpg" alt="">
                                                         </li>
                                                         <!-- items mirrored twice, total of 12 -->
                                                     </ul>
@@ -858,16 +858,16 @@
                                                 <div id="flex-carousel" class="flexslider">
                                                     <ul class="slides">
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail1.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail1.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail2.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail2.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail3.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail3.jpg" alt="">
                                                         </li>
                                                         <li>
-                                                            <img src="imager/product-detail/product_detail4.jpg" alt="">
+                                                            <img src="/imager/product-detail/product_detail4.jpg" alt="">
                                                         </li>
                                                         <!-- items mirrored twice, total of 12 -->
                                                     </ul>
@@ -927,7 +927,7 @@
             <div class="introduce-left">
                 <div class="row introduce-homepage-left">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 img-introduce">
-                        <img src="imager/home/HomePage_v2-introduce1.jpg" alt="">
+                        <img src="/imager/home/HomePage_v2-introduce1.jpg" alt="">
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 introduce-homepage-content">
                         <h2>0.1</h2>
@@ -955,7 +955,7 @@
                         <button class="btn">VIEW MORE</button>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 img-introduce">
-                        <img src="imager/home/HomePage_v2-introduce2.jpg" alt="">
+                        <img src="/imager/home/HomePage_v2-introduce2.jpg" alt="">
                     </div>
                     <div class="col-xl-0 col-lg-0 col-md-0 col-sm-12 col-12 introduce-homepage-content sub-intro2">
                         <h2>0.2</h2>
@@ -973,7 +973,7 @@
             <div class="introduce-left">
                 <div class="row introduce-homepage-left">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 img-introduce">
-                        <img src="imager/home/HomePage_v2-introduce3.jpg" alt="">
+                        <img src="/imager/home/HomePage_v2-introduce3.jpg" alt="">
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 introduce-homepage-content">
                         <h2>0.3</h2>
@@ -1025,16 +1025,16 @@
                 <p>@Uray.cosmetic_beauty</p>
             </div>
             <div class="owl-carousel owl-theme">
-                <div class="item"><a href="#"><img src="imager/home/follow1.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow2.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow3.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow4.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow5.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow1.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow2.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow3.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow4.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="imager/home/follow5.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow1.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow2.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow3.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow4.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow5.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow1.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow2.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow3.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow4.jpg" alt=""></a></div>
+                <div class="item"><a href="#"><img src="/imager/home/follow5.jpg" alt=""></a></div>
             </div>
 
         </div>
