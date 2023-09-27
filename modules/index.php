@@ -11,7 +11,7 @@
                                     <h2 style="color: #c59644; text-shadow: #fff 1px 1px 2px;">Productos <br />De
                                         Calidad</h2>
                                     <p style="color: #fff; text-shadow: #000 1px 1px 5px;">El mundo estará siempre a tus
-                                        pies si luces zapatos que te hagan sentir increíble.</p>
+                                        pies si luces zapatos que te hagan sentir increíble.</p> <br><br>
                                     <a href="/">Ver más</a>
                                 </div>
                             </div>
@@ -35,14 +35,14 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slide-homepage" style="background-image: url('/imager/home/03.jpg')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/09.jpg')">
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-11 col-11 content-slide">
                                     <h2 style="color: #fff; text-shadow: #000 1px 1px .5px;">La moda <br />se encuentra
                                         a tus pies</h2>
                                     <p style="color: #fff; text-shadow: #000 1px 1px 1px;">Nuestros productos son el
-                                        complemento perfecto para tu estilo único.</p>
+                                        complemento <br> perfecto para tu estilo único.</p>
                                     <a href="/">Ver más</a>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                 <div class="wpb_wrapper">
                     <div class="banner-section">
                         <div class="inner-banner-section">
-                            <h2>Día</h2>
+                            <h2 style="color: #b59143;">Día</h2>
                             <img src="/imager/home/04.jpg" alt="">
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                 <div class="wpb_wrapper">
                     <div class="banner-section">
                         <div class="inner-banner-section">
-                            <h2>Noche</h2>
+                            <h2 style="color: #b59143;">Noche</h2>
                             <img src="/imager/home/05.jpg" alt="">
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                 <div class="wpb_wrapper">
                     <div class="banner-section">
                         <div class="inner-banner-section">
-                            <h2>Casual</h2>
+                            <h2 style="color: #b59143;">Casual</h2>
                             <img src="/imager/home/06.jpg" alt="">
                         </div>
                     </div>
@@ -132,12 +132,12 @@
     </div>
     <!--end item homepage-->
 
-    <!--Product out-->
+    <!--Galería-->
     <div class="product-out-homepage2">
         <div class="container">
             <div class="product-out">
                 <div class="title">
-                    <h2 class="text-center">Nuestro Calzado</h2>
+                    <h2 class="text-center" style="color: #b59143;">Nuestro Calzado</h2>
                 </div>
                 <div id="demo" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
@@ -152,10 +152,9 @@
                             <div class="row product">
                                 <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/01.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/01.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -168,10 +167,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/02.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/02.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -189,10 +187,9 @@
                                 <!--end sale product-->
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/03.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/03.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -204,10 +201,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/04.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/04.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -219,10 +215,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/05.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/05.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -234,10 +229,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/06.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/06.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -253,10 +247,9 @@
                             <div class="row product">
                                 <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/07.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/07.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -268,10 +261,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/08.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/08.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -289,10 +281,9 @@
                                 <!--end sale product-->
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/09.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/09.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -304,10 +295,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/10.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/10.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -319,10 +309,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/11.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/11.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -334,10 +323,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/12.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/12.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -353,10 +341,9 @@
                             <div class="row product">
                                 <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/13.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/13.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -368,10 +355,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 ">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/14.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/14.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -389,10 +375,9 @@
                                 <!--end sale product-->
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/15.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/15.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -404,10 +389,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/16.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/16.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -419,10 +403,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/17.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/17.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -434,10 +417,9 @@
                                 </div>
                                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6  mt-5">
                                     <div class="card">
-                                        <a href="/imager/product/product.jpg" class="image-popup-vertical-fit">
+                                        <a href="/imager/product/18.jpg" class="image-popup-vertical-fit">
                                             <div class="card-img-top">
-                                                <img class="image-cover" src="/imager/product/product.jpg"
-                                                    alt="product">
+                                                <img class="image-cover" src="/imager/product/18.jpg" alt="product">
                                                 <div class="icon-product">
                                                     <button class="btn">
                                                         <span class="lnr lnr-eye"></span>
@@ -454,7 +436,8 @@
             </div>
         </div>
     </div>
-    <!--end Product out-->
+    <!--end Galería-->
+
     <!--introduce homepage-->
     <div class="container">
         <div class="row introduce-homepage">
@@ -507,10 +490,10 @@
     <!--end introduce homepage-->
     <!--contact from-->
     <div class="container-fluid">
-        <div class="row contact-from">
+        <div class="row contact-from" style="padding: 60px 0 60px 0;">
             <div class="col-md-12 text-center mb-5">
                 <div class="title-contact">
-                    <h2>Contacto</h2>
+                    <h2 style="color: #b59143;">Contacto</h2>
                     <h4>
                         ¿Tienes alguna pregunta? Estamos listos para atenderte.
                     </h4>
@@ -519,22 +502,22 @@
             <div class="col-md-6">
                 <div class="container">
                     <form>
-                        <div class="row content-contact-from">
+                        <div class="row content-contact-from justify-content-center">
+                            <div class=" col-xl-5 col-lg-5 col-md-5  input-left" style="padding-left: 0;">
+                                <input type="text" placeholder="Nombre">
+                                <input type="text" placeholder="Correo">
+                            </div>
+                            <div class="col-xl-5 col-lg-5 col-md-5  input-right" style="padding-right: 0;">
+                                <input type="text" placeholder="Teléfono">
+                                <input type="text" placeholder="Asunto">
+                            </div>
+                            <textarea style="width: 83%;" placeholder="Mensaje..."></textarea>
+                            <div class="col-md-4 text-center">
+                                <div class="submit-contact">
+                                    <button class="btn">Enviar</button>
+                                </div>
+                            </div>
 
-                            <div class=" col-xl-6 col-lg-6 col-md-6 col-sm-12  input-left"
-                                style="padding-left: 0;">
-                                <input type="text" placeholder="First Name">
-                                <input type="text" placeholder="Email">
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12  input-right"
-                                style="padding-right: 0;">
-                                <input type="text" placeholder="Last Name">
-                                <input type="text" placeholder="Phone">
-                            </div>
-                            <textarea placeholder="Type your comment"></textarea>
-                            <div class="submit-contact">
-                                <button class="btn">SUBMIT</button>
-                            </div>
                         </div>
                     </form>
                 </div>
@@ -547,7 +530,6 @@
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
-
         </div>
 
     </div>
@@ -555,7 +537,7 @@
 
     <!-- code review home-->
     <div class="container-fluid">
-        <div class="row review-homepage" style=" background-image: url('imager/home/bg-review.jpg');
+        <div class="row review-homepage" style=" background-image: url('imager/home/bg-review.jpg?=1');
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -572,60 +554,42 @@
                             <div class="carousel-item active">
                                 <div class="content-review-homepage">
                                     <img src="imager/home/patricsia1.jpg" alt="">
-                                    <h3 class="text-center">Patricsia Petersen</h3>
+                                    <h3 class="text-center">Cliente 1</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i>
                                     </p>
                                     <p style="padding-bottom: 100px;">
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have
-                                        suffered alteration
-                                        in some form, by injected humour, or randomised words which don't look even
-                                        slightly
-                                        believable. If you are
-                                        going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                        embarrassing hidden in the middle of text.
+                                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium voluptates
+                                        neque ab tenetur. Autem ipsa inventore nesciunt repudiandae sit nostrum. <br><br>
                                     </p>
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="content-review-homepage">
                                     <img src="imager/home/patricsia2.jpg" alt="">
-                                    <h3 class="text-center">Patricsia Petersen</h3>
+                                    <h3 class="text-center">Cliente 2</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i>
                                     </p>
                                     <p style="padding-bottom: 100px;">
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have
-                                        suffered alteration
-                                        in some form, by injected humour, or randomised words which don't look even
-                                        slightly
-                                        believable. If you are
-                                        going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                        embarrassing hidden in the middle of text.
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt animi eveniet
+                                        fugit magnam numquam cum aliquid consequatur velit sint asperiores? <br><br>
                                     </p>
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="content-review-homepage">
                                     <img src="imager/home/patricsia3.jpg" alt="">
-                                    <h3 class="text-center">Patricsia Petersen</h3>
+                                    <h3 class="text-center">Cliente 3</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i>
                                     </p>
                                     <p style="padding-bottom: 100px;">
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have
-                                        suffered alteration
-                                        in some form, by injected humour, or randomised words which don't look even
-                                        slightly
-                                        believable. If you are
-                                        going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                        embarrassing hidden in the middle of text.
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis ab maxime
+                                        voluptatibus modi ex sequi suscipit, possimus temporibus dolorum eaque! <br><br>
                                     </p>
                                 </div>
                             </div>
@@ -643,19 +607,19 @@
         <div class="row content-follow-insta">
             <div class="title-follow-insta">
                 <h2>Síguenos en Instagram</h2>
-                <p>@ana_torres_calzado</p>
+                <p>@anatorrescalzado</p>
             </div>
             <div class="owl-carousel owl-theme">
-                <div class="item"><a href="#"><img src="/imager/home/follow1.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow2.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow3.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow4.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow5.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow1.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow2.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow3.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow4.jpg" alt=""></a></div>
-                <div class="item"><a href="#"><img src="/imager/home/follow5.jpg" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow10.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow2.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow7.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow4.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow6.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow8.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow1.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow3.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow9.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow5.jpg?=1" alt=""></a></div>
             </div>
 
         </div>

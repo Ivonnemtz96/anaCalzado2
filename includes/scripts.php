@@ -6,6 +6,8 @@
 <script type="text/javascript" src="/asset/js/owl.carousel.js"></script>
 <script type="text/javascript" src="/asset/js/custom.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+ <!-- icons de redes sociales -->
+ <script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
 <script>
     $(document).ready(function() {
 
