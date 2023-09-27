@@ -5,7 +5,7 @@
             <div class=" header-menu-desktop d-flex justify-content-between">
                 <div>
                     <div class="logo">
-                        <a href="/"><img src="/imager/home/Logo.png" alt=""></a>
+                        <a href="/"><img src="/imager/home/Logo.png?=2" alt=""></a>
                     </div>
                 </div>
                 <div>
@@ -32,7 +32,7 @@
                     <button><span class="lnr lnr-menu click-mobile"></span></button>
                 </div>
                 <div class="logo">
-                    <img src="/imager/home/Logo.png" alt="">
+                    <img src="/imager/home/Logo.png?=2" alt="">
                 </div>
 
             </div>
