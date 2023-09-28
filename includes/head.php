@@ -18,4 +18,7 @@
     <link rel="icon" href="favicon.png?=1" type="image/png">
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+
+    <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

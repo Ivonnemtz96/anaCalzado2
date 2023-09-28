@@ -39,7 +39,8 @@
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-11 col-11 content-slide">
-                                    <h2 style="color: #fff; text-shadow: #000 1px 1px .5px;">La moda <br />que buscas</h2>
+                                    <h2 style="color: #fff; text-shadow: #000 1px 1px .5px;">La moda <br />que buscas
+                                    </h2>
                                     <p style="color: #fff; text-shadow: #000 1px 1px 1px;">Nuestros productos son el
                                         complemento <br> perfecto para tu estilo único.</p>
                                     <a href="/#galeria">Ver más</a>
@@ -500,18 +501,25 @@
             </div>
             <div class="col-md-6">
                 <div class="container">
-                    <form>
+                    <form action="/php/contact.php" method="POST">
                         <div class="row content-contact-from justify-content-center">
                             <div class=" col-xl-5 col-lg-5 col-md-5  input-left" style="padding-left: 0;">
-                                <input type="text" placeholder="Nombre">
-                                <input type="text" placeholder="Correo">
+                                <input type="text" placeholder="Nombre" name="nombre">
+                                <input type="text" placeholder="Correo" name="mail">
                             </div>
                             <div class="col-xl-5 col-lg-5 col-md-5  input-right" style="padding-right: 0;">
-                                <input type="text" placeholder="Teléfono">
-                                <input type="text" placeholder="Asunto">
+                                <input type="text" placeholder="Teléfono" name="tel">
+                                <input type="text" placeholder="Asunto" name="asunto">
                             </div>
-                            <textarea style="width: 83%;" placeholder="Mensaje..."></textarea>
-                            <div class="col-md-4 text-center">
+                            <textarea style="width: 83%;" placeholder="Mensaje..." name="msj"></textarea>
+                            <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                        required></div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12 text-center">
                                 <div class="submit-contact">
                                     <button class="btn">Enviar</button>
                                 </div>
@@ -544,27 +552,28 @@
             <div class="container">
                 <div class="row ">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
+                        <!-- <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                        </ol>
+                        </ol> -->
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="content-review-homepage">
                                     <img src="/imager/home/logo2.png" alt="">
-                                    <h3 class="text-center">Cliente 1</h3>
+                                    <h3 class="text-center">Carrie BL</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i>
                                     </p>
                                     <p style="padding-bottom: 100px;">
-                                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium voluptates
-                                        neque ab tenetur. Autem ipsa inventore nesciunt repudiandae sit nostrum. <br><br>
+                                        Súper bonito todo! Vas por algo y sales con mucho más, la atención es
+                                        excelente!! Muchísimas gracias, súper recomendado 🩷
+                                        <br><br>
                                     </p>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <!-- <div class="carousel-item">
                                 <div class="content-review-homepage">
                                     <img src="/imager/home/logo2.png" alt="">
                                     <h3 class="text-center">Cliente 2</h3>
@@ -591,7 +600,7 @@
                                         voluptatibus modi ex sequi suscipit, possimus temporibus dolorum eaque! <br><br>
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>
@@ -607,22 +616,32 @@
             <div class="title-follow-insta">
                 <h2>Síguenos en Instagram</h2>
                 <p>
-                <a target="_balnk" href="https://www.instagram.com/anatorrescalzado/">
-                @anatorrescalzado
-                </a>    
-               </p>
+                    <a target="_balnk" href="https://www.instagram.com/anatorrescalzado/">
+                        @anatorrescalzado
+                    </a>
+                </p>
             </div>
             <div class="owl-carousel owl-theme">
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow10.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow2.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow7.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow4.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow6.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow8.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow1.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow3.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow9.jpg?=1" alt=""></a></div>
-                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow5.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow10.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow2.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow7.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow4.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow6.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow8.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow1.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow3.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow9.jpg?=1" alt=""></a></div>
+                <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img
+                            src="/imager/home/follow5.jpg?=1" alt=""></a></div>
             </div>
 
         </div>
