@@ -71,7 +71,7 @@
     <div class="container" id="about">
         <div class="row cosmetic align-items-center">
             <div class="col-md-6 bg-cosmetic">
-                <img src="/imager/home/07.png?=1" alt="">
+                <img src="/imager/home/07.jpg?=1" alt="">
             </div>
             <div class="col-md-6">
                 <div class="inner-cosmetic">
@@ -112,7 +112,7 @@
                     <div class="banner-section">
                         <div class="inner-banner-section">
                             <h2 style="color: #b59143;">Noche</h2>
-                            <img src="/imager/home/05.jpg" alt="">
+                            <img src="/imager/home/05.jpg?=2" alt="">
                         </div>
                     </div>
                 </div>
