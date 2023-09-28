@@ -4,46 +4,45 @@
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <div class="slide-homepage" style="background-image: url('/imager/home/01.jpg?=2')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/11.jpg?=3')">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6 col-md-8 col-sm-10 col-10 content-slide">
-                                    <h2 style="color: #c59644; text-shadow: #fff 1px 1px 2px;">Productos <br />De
+                                    <h2 style="color: #fff; text-shadow: #000 1px 1px 1px;">Productos <br />De
                                         Calidad</h2>
-                                    <p style="color: #fff; text-shadow: #000 1px 1px 5px;">El mundo estará siempre a tus
+                                    <p style="color: #fff; text-shadow: #000 1px 1px 1px;">El mundo estará siempre a tus
                                         pies si luces zapatos que te hagan sentir increíble.</p> <br><br>
-                                    <a href="/">Ver más</a>
+                                    <a href="/#galeria">Ver más</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slide-homepage" style="background-image: url('/imager/home/02.jpg?=1')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/12.jpg?=2')">
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-10 col-10 content-slide">
-                                    <h2 style="color: #c59644; text-shadow: #fff 1px 1px 2px;"> Ana Torres <br />Calzado
+                                    <h2 style="color: #fff; text-shadow: #000 1px 1px 1px;"> Ana Torres <br />Calzado
                                     </h2>
                                     <p style="color: #fff; text-shadow: #000 1px 1px 5px;">Los mejores productos de
                                         temporada los puedes encontrar con nosotros. Caminar cómodo nunca se vio tan
                                         bien. ¡Elige tus zapatos favoritos!</p>
-                                    <a href="/">Ver más</a>
+                                    <a href="/#galeria">Ver más</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slide-homepage" style="background-image: url('/imager/home/09.jpg')">
+                    <div class="slide-homepage" style="background-image: url('/imager/home/13.jpg?=1')">
                         <div class="container">
                             <div class="row">
                                 <div class=" col-lg-6 col-md-8 col-sm-11 col-11 content-slide">
-                                    <h2 style="color: #fff; text-shadow: #000 1px 1px .5px;">La moda <br />se encuentra
-                                        a tus pies</h2>
+                                    <h2 style="color: #fff; text-shadow: #000 1px 1px .5px;">La moda <br />que buscas</h2>
                                     <p style="color: #fff; text-shadow: #000 1px 1px 1px;">Nuestros productos son el
                                         complemento <br> perfecto para tu estilo único.</p>
-                                    <a href="/">Ver más</a>
+                                    <a href="/#galeria">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +68,7 @@
     <!--end slide-homepage-1-->
 
     <!-- cosmetic-->
-    <div class="container">
+    <div class="container" id="about">
         <div class="row cosmetic align-items-center">
             <div class="col-md-6 bg-cosmetic">
                 <img src="/imager/home/07.png?=1" alt="">
@@ -133,7 +132,7 @@
     <!--end item homepage-->
 
     <!--Galería-->
-    <div class="product-out-homepage2">
+    <div class="product-out-homepage2" id="galeria">
         <div class="container">
             <div class="product-out">
                 <div class="title">
@@ -447,7 +446,7 @@
                         <img src="/imager/home/HomePage_v2-introduce1.jpg?=1" alt="">
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12  introduce-homepage-content">
-                        <h2>Ana Torres</h2>
+                        <h2 style="font-size: 90px;">Ana Torres</h2>
                         <h5>Las mejores colecciones</h5>
                         <p>
                             Estamos aquí para ayudarte a encontrar el par de zapatos perfecto que se adapte a tu estilo
@@ -455,7 +454,7 @@
                             necesidades. Únete a nosotros y descubre cómo nuestros zapatos pueden convertirse en una
                             parte esencial de tu guardarropa, brindándote confianza y comodidad en cada paso.
                         </p>
-                        <button class="btn">Ver en Instagram</button>
+                        <button class="btn" id="vermas">Ver Instagram</button>
                     </div>
                 </div>
             </div>
@@ -463,13 +462,13 @@
             <div class="introduce-right">
                 <div class="row introduce-homepage-right">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-0 col-0 introduce-homepage-content sub-intro1">
-                        <h2>Calzado</h2>
+                        <h2 style="font-size: 90px !important;">Calzado</h2>
                         <h5>Caminar nunca había sido tan elegante.</h5>
                         <p>
                             Nuestra colección se destaca por su calidad y atención al detalle. Cada par de zapatos es
                             una obra maestra, diseñado por expertos y fabricado con los mejores materiales disponibles.
                         </p>
-                        <button class="btn">Ver en Instagram</button>
+                        <button class="btn" id="vermas">Ver Instagram</button>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12  img-introduce">
                         <img src="/imager/home/HomePage_v2-introduce2.jpg?=1" alt="">
@@ -489,7 +488,7 @@
     </div>
     <!--end introduce homepage-->
     <!--contact from-->
-    <div class="container-fluid">
+    <div class="container-fluid" id="contacto">
         <div class="row contact-from" style="padding: 60px 0 60px 0;">
             <div class="col-md-12 text-center mb-5">
                 <div class="title-contact">
@@ -553,7 +552,7 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="content-review-homepage">
-                                    <img src="imager/home/patricsia1.jpg" alt="">
+                                    <img src="/imager/home/logo2.png" alt="">
                                     <h3 class="text-center">Cliente 1</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
@@ -567,7 +566,7 @@
                             </div>
                             <div class="carousel-item">
                                 <div class="content-review-homepage">
-                                    <img src="imager/home/patricsia2.jpg" alt="">
+                                    <img src="/imager/home/logo2.png" alt="">
                                     <h3 class="text-center">Cliente 2</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
@@ -581,7 +580,7 @@
                             </div>
                             <div class="carousel-item">
                                 <div class="content-review-homepage">
-                                    <img src="imager/home/patricsia3.jpg" alt="">
+                                    <img src="/imager/home/logo2.png" alt="">
                                     <h3 class="text-center">Cliente 3</h3>
                                     <p class="text-center"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
                                             class="fas fa-star"></i><i class="fas fa-star"></i><i
@@ -607,7 +606,11 @@
         <div class="row content-follow-insta">
             <div class="title-follow-insta">
                 <h2>Síguenos en Instagram</h2>
-                <p>@anatorrescalzado</p>
+                <p>
+                <a target="_balnk" href="https://www.instagram.com/anatorrescalzado/">
+                @anatorrescalzado
+                </a>    
+               </p>
             </div>
             <div class="owl-carousel owl-theme">
                 <div class="item"><a href="https://www.instagram.com/anatorrescalzado/" target="_blank"><img src="/imager/home/follow10.jpg?=1" alt=""></a></div>

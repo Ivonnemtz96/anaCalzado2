@@ -1921,7 +1921,7 @@ i {
   margin-top: 250px;
   position: relative; }
   .content-review-homepage img {
-    width: 150px;
+    /* width: 150px; */
     height: 150px;
     left: 43%;
     position: absolute;
@@ -4107,7 +4107,7 @@ i {
   .content-follow-insta .item {
     position: relative;
     z-index: 2; }
-  .content-follow-insta .item:before {
+  /* .content-follow-insta .item:before {
     content: "";
     position: absolute;
     z-index: 3;
@@ -4120,7 +4120,7 @@ i {
     display: none; }
   .content-follow-insta .item:hover:before {
     display: block;
-    cursor: pointer; }
+    cursor: pointer; } */
 
 @media all and (max-width: 360px) {
   .content-follow-insta ul {
@@ -4184,7 +4184,7 @@ i {
       padding: 80px 60px 110px 0;
       font-family: 'Raleway', sans-serif; }
       .introduce-homepage .introduce-right .introduce-homepage-content h2 {
-        font-size: 110px;
+        font-size: 90px;
         font-weight: 600;
         line-height: 1;
         color: #ffa6a8;
